@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from "react";
+import { Analytics } from "@vercel/analytics/react"
 import "./App.css";
 
 const API_URL = "https://image-denoiser-2f3r.onrender.com/api/denoise";
@@ -168,7 +169,7 @@ function App() {
           the original.
         </p>
       </header>
-
+      <Analytics />
       <main className="App-main">
         <section className="card">
           <h2>1. Upload & Settings</h2>
