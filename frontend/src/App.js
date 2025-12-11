@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import "./App.css";
 
-const API_URL = "http://localhost:8000/api/denoise";
+const API_URL = "https://image-denoiser-2f3r.onrender.com/api/denoise";
 const STORAGE_KEY = "image-denoiser-settings-v1";
 
 function App() {
