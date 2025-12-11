@@ -1,5 +1,6 @@
 fastapi
 uvicorn[standard]
+gunicorn
 pillow
 opencv-python
 numpy
