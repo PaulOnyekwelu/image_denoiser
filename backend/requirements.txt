@@ -5,3 +5,4 @@ pillow
 opencv-python
 numpy
 PyWavelets
+python-multipart
