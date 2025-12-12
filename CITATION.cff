@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite it using the metadata below."
+title: "Image Denoising Web Application"
+authors:
+  - family-names: "Onyekwelu"
+    given-names: "Paul Onyekachi"
+    orcid: "https://orcid.org/0000-0002-2845-3293"
+abstract: "An open-source web application for demonstrating multiple image denoising techniques, including classical filters and a Convolutional Denoising Autoencoder (CDAE)."
+repository-code: "https://github.com/PaulOnyekwelu"
+license: "MIT"
+version: "1.0.0"
+date-released: 2025-01-01
+url: "https://image-denoiser.vercel.app"
